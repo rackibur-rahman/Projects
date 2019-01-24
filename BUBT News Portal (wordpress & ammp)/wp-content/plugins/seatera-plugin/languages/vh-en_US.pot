@@ -1,0 +1,479 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Seatera Functionality v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-10-16 10:07:36+0000\n"
+"Last-Translator: Cohhe <support@cohhe.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: lib/functions/general.php:52
+#@ default
+msgid "Links"
+msgstr ""
+
+#: lib/functions/shortcodes.php:614
+#@ vh
+msgid "Read more"
+msgstr ""
+
+#: lib/functions/showseats.php:382
+#@ vh
+msgid "All day"
+msgstr ""
+
+#: lib/functions/showseats.php:1752
+#: lib/functions/showseats.php:2122
+#: lib/functions/showseats.php:2550
+#: lib/functions/showseats.php:3303
+#: lib/functions/showseats.php:3391
+#@ vh
+msgid "Seat"
+msgstr ""
+
+#: lib/functions/showseats.php:2622
+#@ vh
+msgid "Discount"
+msgstr ""
+
+#: lib/functions/showseats.php:2648
+#@ vh
+msgid "Enter your name, please"
+msgstr ""
+
+#: lib/functions/showseats.php:2662
+#@ vh
+msgid "Enter your email, please"
+msgstr ""
+
+#: lib/functions/showseats.php:2675
+#@ vh
+msgid "Enter your phone, please"
+msgstr ""
+
+#: lib/functions/showseats.php:2881
+#@ vh
+msgid "Required field"
+msgstr ""
+
+#: lib/functions/showseats.php:2110
+#@ vh
+msgid "Items in cart"
+msgstr ""
+
+#: lib/functions/showseats.php:3313
+#@ vh
+msgid "ticket"
+msgstr ""
+
+#: lib/functions/showseats.php:3315
+#@ vh
+msgid "tickets"
+msgstr ""
+
+#: lib/functions/showseats.php:3324
+#@ vh
+msgid "Buy"
+msgstr ""
+
+#: lib/functions/showseats.php:3324
+#@ vh
+msgid "for"
+msgstr ""
+
+#: lib/functions/showseats.php:3324
+#@ vh
+msgid "total"
+msgstr ""
+
+#: lib/functions/showseats.php:3564
+#: lib/functions/showseats.php:3571
+#@ vh
+msgid "Payment Gateway"
+msgstr ""
+
+#: lib/functions/showseats.php:3659
+#@ vh
+msgid "Coupon"
+msgstr ""
+
+#: lib/functions/showseats.php:3666
+#@ vh
+msgid "Grand Total"
+msgstr ""
+
+#: lib/widgets/twitter/twitter.php:12
+#@ vh
+msgid "Displays a twitter feed"
+msgstr ""
+
+#: lib/widgets/twitter/twitter.php:14
+#@ vh
+msgid "Seatera - Twitter"
+msgstr ""
+
+#: lib/widgets/twitter/twitter.php:19
+#@ vh
+msgid "Recent Tweets"
+msgstr ""
+
+#: lib/widgets/twitter/twitter.php:57
+#, php-format
+#@ vh
+msgid "about %d seconds ago"
+msgstr ""
+
+#: lib/widgets/twitter/twitter.php:58
+#@ vh
+msgid "about a minute ago"
+msgstr ""
+
+#: lib/widgets/twitter/twitter.php:59
+#, php-format
+#@ vh
+msgid "about %d minutes ago"
+msgstr ""
+
+#: lib/widgets/twitter/twitter.php:60
+#@ vh
+msgid "about an hour ago"
+msgstr ""
+
+#: lib/widgets/twitter/twitter.php:61
+#, php-format
+#@ vh
+msgid "about %d hours ago"
+msgstr ""
+
+#: lib/widgets/twitter/twitter.php:62
+#@ vh
+msgid "about a day ago"
+msgstr ""
+
+#: lib/widgets/twitter/twitter.php:63
+#, php-format
+#@ vh
+msgid "about %d days ago"
+msgstr ""
+
+#: lib/widgets/twitter/twitter.php:92
+#@ vh
+msgid "Title:"
+msgstr ""
+
+#: lib/widgets/twitter/twitter.php:96
+#@ vh
+msgid "Usernames (separate with comas):"
+msgstr ""
+
+#: lib/widgets/twitter/twitter.php:100
+#@ vh
+msgid "height and width of avatar if displayed (54px max)(optional)"
+msgstr ""
+
+#: lib/widgets/twitter/twitter.php:104
+#@ vh
+msgid "How many tweets to display?"
+msgstr ""
+
+#: lib/functions/showseats.php:2117
+#: lib/functions/showseats.php:3388
+#@ vh
+msgid "Name"
+msgstr ""
+
+#: lib/functions/showseats.php:42
+#@ vh
+msgid "Movie"
+msgstr ""
+
+#: lib/functions/showseats.php:43
+#@ vh
+msgid "*Online Booking is Closed, We Appreciate Your Patronage!"
+msgstr ""
+
+#: lib/functions/showseats.php:44
+#@ vh
+msgid "Online booking will close {DURATION} prior to engagement"
+msgstr ""
+
+#: lib/functions/showseats.php:45
+#@ vh
+msgid "Online booking will close"
+msgstr ""
+
+#: lib/functions/showseats.php:46
+#@ vh
+msgid "prior to engagement"
+msgstr ""
+
+#: lib/functions/showseats.php:47
+#@ vh
+msgid "Event Date & Time"
+msgstr ""
+
+#: lib/functions/showseats.php:48
+#@ vh
+msgid "Time"
+msgstr ""
+
+#: lib/functions/showseats.php:49
+#@ vh
+msgid "Date"
+msgstr ""
+
+#: lib/functions/showseats.php:50
+#@ vh
+msgid "Venue"
+msgstr ""
+
+#: lib/functions/showseats.php:52
+#@ vh
+msgid "View Cart"
+msgstr ""
+
+#: lib/functions/showseats.php:54
+#@ vh
+msgid "Apply Member ID"
+msgstr ""
+
+#: lib/functions/showseats.php:55
+#@ vh
+msgid "Apply Coupon"
+msgstr ""
+
+#: lib/functions/showseats.php:56
+#@ vh
+msgid "Enter Member ID"
+msgstr ""
+
+#: lib/functions/showseats.php:1753
+#@ vh
+msgid "Price-"
+msgstr ""
+
+#: lib/functions/showseats.php:1754
+#@ vh
+msgid "Available"
+msgstr ""
+
+#: lib/functions/showseats.php:1755
+#@ vh
+msgid "Booked"
+msgstr ""
+
+#: lib/functions/showseats.php:1756
+#@ vh
+msgid "Wheelchair Access"
+msgstr ""
+
+#: lib/functions/showseats.php:1757
+#: lib/functions/showseats.php:2127
+#@ vh
+msgid "STALL"
+msgstr ""
+
+#: lib/functions/showseats.php:1758
+#: lib/functions/showseats.php:2128
+#@ vh
+msgid "BALCONY"
+msgstr ""
+
+#: lib/functions/showseats.php:1759
+#: lib/functions/showseats.php:2129
+#@ vh
+msgid "CIRCLE"
+msgstr ""
+
+#: lib/functions/showseats.php:1760
+#@ vh
+msgid "Blocked"
+msgstr ""
+
+#: lib/functions/showseats.php:2105
+#@ vh
+msgid "Available seats"
+msgstr ""
+
+#: lib/functions/showseats.php:2106
+#@ vh
+msgid "Your reserved seats"
+msgstr ""
+
+#: lib/functions/showseats.php:2107
+#@ vh
+msgid "Other&#39;s reserved seats"
+msgstr ""
+
+#: lib/functions/showseats.php:2108
+#@ vh
+msgid "Booked seats"
+msgstr ""
+
+#: lib/functions/showseats.php:2109
+#@ vh
+msgid "Handicap Accomodation"
+msgstr ""
+
+#: lib/functions/showseats.php:2111
+#: lib/functions/showseats.php:2124
+#: lib/functions/showseats.php:3392
+#@ vh
+msgid "Cost"
+msgstr ""
+
+#: lib/functions/showseats.php:2112
+#@ vh
+msgid "Total"
+msgstr ""
+
+#: lib/functions/showseats.php:2113
+#@ vh
+msgid "Total amount"
+msgstr ""
+
+#: lib/functions/showseats.php:2114
+#@ vh
+msgid "Checkout"
+msgstr ""
+
+#: lib/functions/showseats.php:2115
+#@ vh
+msgid "Remove all"
+msgstr ""
+
+#: lib/functions/showseats.php:2116
+#@ vh
+msgid "Booking details "
+msgstr ""
+
+#: lib/functions/showseats.php:2118
+#: lib/functions/showseats.php:3389
+#@ vh
+msgid "Email"
+msgstr ""
+
+#: lib/functions/showseats.php:2119
+#: lib/functions/showseats.php:3390
+#@ vh
+msgid "Phone"
+msgstr ""
+
+#: lib/functions/showseats.php:2120
+#@ vh
+msgid "I agree to terms & conditions"
+msgstr ""
+
+#: lib/functions/showseats.php:2121
+#@ vh
+msgid "Cart is empty"
+msgstr ""
+
+#: lib/functions/showseats.php:2125
+#@ vh
+msgid "Place order"
+msgstr ""
+
+#: lib/functions/showseats.php:2126
+#@ vh
+msgid "Added"
+msgstr ""
+
+#: lib/functions/showseats.php:2130
+#@ vh
+msgid "Screen"
+msgstr ""
+
+#: lib/functions/showseats.php:2131
+#@ vh
+msgid "I am a VIP Member"
+msgstr ""
+
+#: lib/functions/showseats.php:3383
+#@ vh
+msgid "Attention! Please correct the errors below and try again."
+msgstr ""
+
+#: lib/functions/showseats.php:3384
+#@ vh
+msgid "Please enter name"
+msgstr ""
+
+#: lib/functions/showseats.php:3385
+#@ vh
+msgid "Please enter email"
+msgstr ""
+
+#: lib/functions/showseats.php:3386
+#@ vh
+msgid "Please enter phone"
+msgstr ""
+
+#: lib/functions/showseats.php:3387
+#@ vh
+msgid "Please agree to our Terms and Conditions to continue"
+msgstr ""
+
+#: lib/functions/showseats.php:3393
+#@ vh
+msgid "Purchase"
+msgstr ""
+
+#: lib/functions/showseats.php:3394
+#@ vh
+msgid "Edit info"
+msgstr ""
+
+#: lib/functions/showseats.php:51
+#@ vh
+msgid "Your cart will empty if idle for  min."
+msgstr ""
+
+#: lib/functions/showseats.php:53
+#@ vh
+msgid "Processing....."
+msgstr ""
+
+#: lib/functions/showseats.php:57
+#@ vh
+msgid "Sorry, Only logged in users can access this show."
+msgstr ""
+
+#: lib/functions/showseats.php:58
+#@ vh
+msgid "Sorry this seat is already booked by someone else"
+msgstr ""
+
+#: lib/functions/showseats.php:346
+#@ vh
+msgid "Sorry this page is idle for long. To continue"
+msgstr ""
+
+#: lib/functions/showseats.php:346
+#@ vh
+msgid "click here"
+msgstr ""
+
+#: lib/functions/showseats.php:2123
+#@ vh
+msgid "Row"
+msgstr ""
+
+#: lib/functions/showseats.php:3495
+#@ vh
+msgid "Please enter a valid email"
+msgstr ""
+

@@ -1,0 +1,1050 @@
+# Copyright (C) 2015 eVisionThemes
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: CLEAN BIZ\n"
+"POT-Creation-Date: 2017-05-12 14:41+0545\n"
+"PO-Revision-Date: 2015-12-02 14:06+0545\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:21
+msgid "That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:23
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:38
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:56
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: assets/frameworks/breadcrumbs/breadcrumbs.php:244
+msgid "Browse:"
+msgstr ""
+
+#: assets/frameworks/breadcrumbs/breadcrumbs.php:245
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: assets/frameworks/breadcrumbs/breadcrumbs.php:246
+msgid "Home"
+msgstr ""
+
+#: assets/frameworks/breadcrumbs/breadcrumbs.php:247
+msgid "404 Not Found"
+msgstr ""
+
+#: assets/frameworks/breadcrumbs/breadcrumbs.php:248
+msgid "Archives"
+msgstr ""
+
+#: assets/frameworks/breadcrumbs/breadcrumbs.php:250
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: assets/frameworks/breadcrumbs/breadcrumbs.php:252
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: assets/frameworks/breadcrumbs/breadcrumbs.php:254
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: assets/frameworks/breadcrumbs/breadcrumbs.php:256
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: assets/frameworks/breadcrumbs/breadcrumbs.php:708
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: assets/frameworks/breadcrumbs/breadcrumbs.php:725
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: assets/frameworks/breadcrumbs/breadcrumbs.php:742
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: assets/frameworks/breadcrumbs/breadcrumbs.php:758
+#: assets/frameworks/breadcrumbs/breadcrumbs.php:787
+#: assets/frameworks/breadcrumbs/breadcrumbs.php:814
+#: assets/frameworks/breadcrumbs/breadcrumbs.php:841
+#: assets/frameworks/breadcrumbs/breadcrumbs.php:1181
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: assets/frameworks/breadcrumbs/breadcrumbs.php:759
+#: assets/frameworks/breadcrumbs/breadcrumbs.php:815
+#: assets/frameworks/breadcrumbs/breadcrumbs.php:1185
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: assets/frameworks/breadcrumbs/breadcrumbs.php:760
+#: assets/frameworks/breadcrumbs/breadcrumbs.php:1189
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: assets/frameworks/breadcrumbs/breadcrumbs.php:788
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: comments.php:33
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:37
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:47 comments.php:68
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:50 comments.php:71
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:51 comments.php:72
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:85
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:58
+msgid "Primary"
+msgstr ""
+
+#: functions.php:59
+msgid "Social"
+msgstr ""
+
+#: functions.php:126
+msgctxt "%s font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/customizer/about-section/about-panel.php:12
+msgid "Know More"
+msgstr ""
+
+#: inc/customizer/about-section/about-panel.php:18
+msgid "About Section"
+msgstr ""
+
+#: inc/customizer/about-section/about-panel.php:28
+msgid "Enable About Section"
+msgstr ""
+
+#: inc/customizer/about-section/about-panel.php:29
+msgid "Enable \"About Section\" on checked"
+msgstr ""
+
+#: inc/customizer/about-section/about-panel.php:46
+msgid "Select Page For About Section"
+msgstr ""
+
+#: inc/customizer/about-section/about-panel.php:70
+msgid "About Section Button Text"
+msgstr ""
+
+#: inc/customizer/blog-section/blog-panel.php:10
+msgid "FROM OUR BLOG"
+msgstr ""
+
+#: inc/customizer/blog-section/blog-panel.php:11
+msgid "Stay update with us"
+msgstr ""
+
+#: inc/customizer/blog-section/blog-panel.php:15
+#: inc/customizer/service-section/service-options.php:13
+msgid "Browse more"
+msgstr ""
+
+#: inc/customizer/blog-section/blog-panel.php:21
+msgid "Blog Section"
+msgstr ""
+
+#: inc/customizer/blog-section/blog-panel.php:30
+msgid "Enable Blog"
+msgstr ""
+
+#: inc/customizer/blog-section/blog-panel.php:31
+msgid "Enable \"Blog Section\" on checked"
+msgstr ""
+
+#: inc/customizer/blog-section/blog-panel.php:45
+#: inc/customizer/portfolio-section/portfolio-panel.php:44
+#: inc/customizer/service-section/service-options.php:48
+#: inc/customizer/team-section/team-options.php:46
+#: inc/customizer/testimonial-section/testimonial-options.php:68
+msgid "Main Title"
+msgstr ""
+
+#: inc/customizer/blog-section/blog-panel.php:59
+#: inc/customizer/portfolio-section/portfolio-panel.php:59
+#: inc/customizer/service-section/service-options.php:64
+#: inc/customizer/team-section/team-options.php:61
+#: inc/customizer/testimonial-section/testimonial-options.php:83
+msgid "Sub Title"
+msgstr ""
+
+#: inc/customizer/blog-section/blog-panel.php:74
+msgid "Select Category For Blog"
+msgstr ""
+
+#: inc/customizer/blog-section/blog-panel.php:75
+msgid "Blog will only displayed from this category"
+msgstr ""
+
+#: inc/customizer/blog-section/blog-panel.php:89
+#: inc/customizer/service-section/service-options.php:78
+#: inc/customizer/team-section/team-options.php:95
+msgid "Browse All Button Text"
+msgstr ""
+
+#: inc/customizer/blog-section/blog-panel.php:103
+#: inc/customizer/service-section/service-options.php:92
+#: inc/customizer/team-section/team-options.php:109
+msgid "Browse All Button Link"
+msgstr ""
+
+#: inc/customizer/callback-section/callback-panel.php:13
+#: inc/customizer/callback-section/settings.php:13
+#: inc/customizer/slider-section/slider-property.php:18
+msgid "View More"
+msgstr ""
+
+#: inc/customizer/callback-section/callback-panel.php:20
+msgid "Callback Section"
+msgstr ""
+
+#: inc/customizer/callback-section/callback-panel.php:30
+msgid "Enable Callback Section"
+msgstr ""
+
+#: inc/customizer/callback-section/callback-panel.php:31
+#: inc/customizer/callback-section/settings.php:32
+msgid "Enable \"callback Section\" on checked"
+msgstr ""
+
+#: inc/customizer/callback-section/callback-panel.php:47
+msgid "Select Page For Callback Section"
+msgstr ""
+
+#: inc/customizer/callback-section/callback-panel.php:62
+#: inc/customizer/callback-section/settings.php:63
+msgid "Number Of Words"
+msgstr ""
+
+#: inc/customizer/callback-section/callback-panel.php:63
+#: inc/customizer/callback-section/settings.php:64
+msgid ""
+"Give number of words you wish to be appear on home page callback section"
+msgstr ""
+
+#: inc/customizer/callback-section/callback-panel.php:78
+#: inc/customizer/callback-section/settings.php:79
+msgid "Enable Button"
+msgstr ""
+
+#: inc/customizer/callback-section/callback-panel.php:93
+msgid "Callback Section Button Text"
+msgstr ""
+
+#: inc/customizer/callback-section/callback-panel.php:108
+msgid "Callback Section Button URL"
+msgstr ""
+
+#: inc/customizer/callback-section/callback-panel.php:109
+#: inc/customizer/callback-section/settings.php:110
+msgid "Will redirect to the costume URL "
+msgstr ""
+
+#: inc/customizer/callback-section/settings.php:20
+#: inc/customizer/service-section/service-options.php:23
+#: inc/customizer/slider-section/slider-settings.php:18
+#: inc/customizer/team-section/team-options.php:22
+#: inc/customizer/testimonial-section/testimonial-options.php:27
+msgid "Section Settings"
+msgstr ""
+
+#: inc/customizer/callback-section/settings.php:31
+msgid "Enable callback Section"
+msgstr ""
+
+#: inc/customizer/callback-section/settings.php:48
+msgid "Select Page For callback Section"
+msgstr ""
+
+#: inc/customizer/callback-section/settings.php:94
+msgid "callback Section Button Text"
+msgstr ""
+
+#: inc/customizer/callback-section/settings.php:109
+msgid "callback Section Button URL"
+msgstr ""
+
+#: inc/customizer/color/color-section.php:49
+msgid "Site Identity Color"
+msgstr ""
+
+#: inc/customizer/color/color-section.php:50
+msgid "Site title and tagline color"
+msgstr ""
+
+#: inc/customizer/color/color-section.php:64
+msgid "Primary Color"
+msgstr ""
+
+#: inc/customizer/color/color-section.php:65
+msgid "Change your primary color on default it is purple"
+msgstr ""
+
+#: inc/customizer/color/color-section.php:79
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/customizer/color/color-section.php:80
+msgid "Change your secondary color on default it is orange"
+msgstr ""
+
+#: inc/customizer/color/color-section.php:95
+msgid "Reset"
+msgstr ""
+
+#: inc/customizer/color/color-section.php:96
+msgid ""
+"Caution: Reset all color settings above to default. Refresh the page after "
+"saving to view the effects"
+msgstr ""
+
+#: inc/customizer/customizer.php:132 inc/customizer/customizer.php:142
+msgid "Reset All Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:143
+msgid ""
+"Caution: Reset all options settings to default. Refresh the page after save "
+"to view the effects. "
+msgstr ""
+
+#: inc/customizer/customizer.php:156
+msgid "Additional CSS"
+msgstr ""
+
+#: inc/customizer/customizer.php:163
+msgid "Header Image"
+msgstr ""
+
+#: inc/customizer/font/font-section.php:149
+msgid "Font Family"
+msgstr ""
+
+#: inc/customizer/font/font-section.php:159
+msgid "Site Identity/Logo"
+msgstr ""
+
+#: inc/customizer/font/font-section.php:160
+msgid "Site Identity font family"
+msgstr ""
+
+#: inc/customizer/font/font-section.php:177
+msgid "Body ( paragraph ) Primary"
+msgstr ""
+
+#: inc/customizer/font/font-section.php:178
+msgid "change primary font family"
+msgstr ""
+
+#: inc/customizer/font/font-section.php:195
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer/font/font-section.php:196
+msgid "section title font will be changed"
+msgstr ""
+
+#: inc/customizer/portfolio-section/portfolio-panel.php:10
+msgid "Our Portfolio"
+msgstr ""
+
+#: inc/customizer/portfolio-section/portfolio-panel.php:11
+msgid ""
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut "
+"aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in "
+"voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+msgstr ""
+
+#: inc/customizer/portfolio-section/portfolio-panel.php:19
+msgid "Portfolio Section"
+msgstr ""
+
+#: inc/customizer/portfolio-section/portfolio-panel.php:29
+msgid "Enable Portfolio Section"
+msgstr ""
+
+#: inc/customizer/portfolio-section/portfolio-panel.php:30
+msgid "Enable Portfolio Section\" on checked"
+msgstr ""
+
+#: inc/customizer/portfolio-section/portfolio-panel.php:45
+msgid "Enable \"portfolio Section\" on checked"
+msgstr ""
+
+#: inc/customizer/portfolio-section/portfolio-panel.php:73
+msgid "Number Of Portfolio/s"
+msgstr ""
+
+#: inc/customizer/portfolio-section/portfolio-panel.php:77
+#: inc/customizer/slider-section/slider-settings.php:49
+#: inc/customizer/team-section/team-options.php:79
+#: inc/customizer/testimonial-section/testimonial-options.php:103
+#: inc/customizer/theme-option/footer.php:30
+msgid "1"
+msgstr ""
+
+#: inc/customizer/portfolio-section/portfolio-panel.php:78
+#: inc/customizer/slider-section/slider-settings.php:50
+#: inc/customizer/team-section/team-options.php:80
+#: inc/customizer/testimonial-section/testimonial-options.php:104
+#: inc/customizer/theme-option/footer.php:31
+msgid "2"
+msgstr ""
+
+#: inc/customizer/portfolio-section/portfolio-panel.php:79
+#: inc/customizer/slider-section/slider-settings.php:51
+#: inc/customizer/team-section/team-options.php:81
+#: inc/customizer/testimonial-section/testimonial-options.php:105
+#: inc/customizer/theme-option/footer.php:32
+msgid "3"
+msgstr ""
+
+#: inc/customizer/portfolio-section/portfolio-panel.php:80
+#: inc/customizer/team-section/team-options.php:82
+msgid "4"
+msgstr ""
+
+#: inc/customizer/portfolio-section/portfolio-panel.php:81
+msgid "5"
+msgstr ""
+
+#: inc/customizer/portfolio-section/portfolio-panel.php:82
+msgid "6"
+msgstr ""
+
+#: inc/customizer/portfolio-section/portfolio-panel.php:83
+msgid "7"
+msgstr ""
+
+#: inc/customizer/portfolio-section/portfolio-panel.php:84
+msgid "8"
+msgstr ""
+
+#: inc/customizer/portfolio-section/portfolio-panel.php:97
+msgid "Select Category For Portfolio"
+msgstr ""
+
+#: inc/customizer/portfolio-section/portfolio-panel.php:98
+msgid "Portfolio will only displayed from this category"
+msgstr ""
+
+#: inc/customizer/service-section/font-icon.php:16
+msgid "Service Icons"
+msgstr ""
+
+#: inc/customizer/service-section/font-icon.php:17
+msgid "This will let you choose font icon for service page\"."
+msgstr ""
+
+#: inc/customizer/service-section/font-icon.php:29
+#, php-format
+msgid "Icon for service section %s"
+msgstr ""
+
+#: inc/customizer/service-section/font-icon.php:33
+#, php-format
+msgid "Use font awesome icon: Eg: %1$s. %2$sSee more here%3$s"
+msgstr ""
+
+#: inc/customizer/service-section/from-page.php:15
+msgid "Select Service From Page"
+msgstr ""
+
+#: inc/customizer/service-section/from-page.php:16
+msgid ""
+"This option only work when you have selected \"Page\" in \"Service selection "
+"Options\"."
+msgstr ""
+
+#: inc/customizer/service-section/from-page.php:29
+#, php-format
+msgid "Select Page For Service %s"
+msgstr ""
+
+#: inc/customizer/service-section/service-options.php:10
+msgid "amazing features"
+msgstr ""
+
+#: inc/customizer/service-section/service-options.php:11
+#: inc/customizer/testimonial-section/testimonial-options.php:12
+msgid ""
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut "
+"aliquip ex ea commodo consequat."
+msgstr ""
+
+#: inc/customizer/service-section/service-options.php:33
+msgid "Enable Service"
+msgstr ""
+
+#: inc/customizer/service-section/service-panel.php:6
+msgid "Service Section"
+msgstr ""
+
+#: inc/customizer/slider-section/slider-from-page.php:15
+#: inc/customizer/testimonial-section/from-page.php:15
+msgid "Select From Page"
+msgstr ""
+
+#: inc/customizer/slider-section/slider-from-page.php:16
+#: inc/customizer/testimonial-section/from-page.php:16
+msgid ""
+"This option only work when you have selected \"Page\" in \"Settings Options"
+"\"."
+msgstr ""
+
+#: inc/customizer/slider-section/slider-from-page.php:29
+#, php-format
+msgid "Select Page For Slide %s"
+msgstr ""
+
+#: inc/customizer/slider-section/slider-panel.php:6
+msgid "Slider Section"
+msgstr ""
+
+#: inc/customizer/slider-section/slider-property.php:24
+msgid "Slider Property"
+msgstr ""
+
+#: inc/customizer/slider-section/slider-property.php:34
+msgid "Single Slider- Number Of Words"
+msgstr ""
+
+#: inc/customizer/slider-section/slider-property.php:35
+#: inc/customizer/testimonial-section/testimonial-options.php:120
+msgid "If you do not have selected from - Custom"
+msgstr ""
+
+#: inc/customizer/slider-section/slider-property.php:50
+msgid "Slider Mode"
+msgstr ""
+
+#: inc/customizer/slider-section/slider-property.php:54
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/slider-section/slider-property.php:55
+msgid "Fade"
+msgstr ""
+
+#: inc/customizer/slider-section/slider-property.php:56
+msgid "Fade-Out"
+msgstr ""
+
+#: inc/customizer/slider-section/slider-property.php:69
+msgid "Enable Arrow"
+msgstr ""
+
+#: inc/customizer/slider-section/slider-property.php:83
+msgid "Enable Pager"
+msgstr ""
+
+#: inc/customizer/slider-section/slider-property.php:97
+msgid "Enable Title"
+msgstr ""
+
+#: inc/customizer/slider-section/slider-property.php:111
+msgid "Enable Caption"
+msgstr ""
+
+#: inc/customizer/slider-section/slider-property.php:126
+msgid "Slider Section Button Text"
+msgstr ""
+
+#: inc/customizer/slider-section/slider-settings.php:29
+msgid "Enable Feature Slider"
+msgstr ""
+
+#: inc/customizer/slider-section/slider-settings.php:31
+msgid "Enable \"Feature slider\" on checked"
+msgstr ""
+
+#: inc/customizer/slider-section/slider-settings.php:45
+msgid "Number Of Slider"
+msgstr ""
+
+#: inc/customizer/team-section/from-page.php:15
+msgid "Select Team From Page"
+msgstr ""
+
+#: inc/customizer/team-section/from-page.php:16
+msgid ""
+"This option only work when you have selected \"Page\" in \"team selection "
+"Options\"."
+msgstr ""
+
+#: inc/customizer/team-section/from-page.php:29
+#, php-format
+msgid "Select Page For Team %s"
+msgstr ""
+
+#: inc/customizer/team-section/team-options.php:10
+msgid "Our Teams"
+msgstr ""
+
+#: inc/customizer/team-section/team-options.php:11
+msgid "Meet Our Awesome Creators"
+msgstr ""
+
+#: inc/customizer/team-section/team-options.php:12
+msgid "Browse more teams"
+msgstr ""
+
+#: inc/customizer/team-section/team-options.php:32
+msgid "Enable Team"
+msgstr ""
+
+#: inc/customizer/team-section/team-options.php:75
+msgid "Number Of Team/s"
+msgstr ""
+
+#: inc/customizer/team-section/team-panel.php:6
+msgid "Team Section"
+msgstr ""
+
+#: inc/customizer/testimonial-section/from-page.php:29
+#, php-format
+msgid "Select Page For Testimonial %s"
+msgstr ""
+
+#: inc/customizer/testimonial-section/testimonial-options.php:11
+msgid "Testimonials"
+msgstr ""
+
+#: inc/customizer/testimonial-section/testimonial-options.php:37
+msgid "Enable Testimonial"
+msgstr ""
+
+#: inc/customizer/testimonial-section/testimonial-options.php:38
+msgid "Enable \"Testimonial selection\" on checked"
+msgstr ""
+
+#: inc/customizer/testimonial-section/testimonial-options.php:52
+msgid "Enable Image On Testimonial"
+msgstr ""
+
+#: inc/customizer/testimonial-section/testimonial-options.php:53
+msgid "Enable image on testimonial selection on checked"
+msgstr ""
+
+#: inc/customizer/testimonial-section/testimonial-options.php:98
+msgid "Number Of Testimonial/s"
+msgstr ""
+
+#: inc/customizer/testimonial-section/testimonial-options.php:99
+msgid "Choose number of Testimonial to be displayed"
+msgstr ""
+
+#: inc/customizer/testimonial-section/testimonial-options.php:119
+msgid "Single Testimonial- Number Of Words"
+msgstr ""
+
+#: inc/customizer/testimonial-section/testimonial-panel.php:6
+msgid "Testimonial Section"
+msgstr ""
+
+#: inc/customizer/theme-option/back-to-top.php:13
+msgid "Back To Top Options"
+msgstr ""
+
+#: inc/customizer/theme-option/back-to-top.php:23
+msgid "Enable Back To Top"
+msgstr ""
+
+#: inc/customizer/theme-option/breadcrumb.php:13
+msgid "Breadcrumb Options"
+msgstr ""
+
+#: inc/customizer/theme-option/breadcrumb.php:23
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: inc/customizer/theme-option/footer.php:9
+msgid "Copyright &copy; All right reserved."
+msgstr ""
+
+#: inc/customizer/theme-option/footer.php:15
+msgid "Footer Options"
+msgstr ""
+
+#: inc/customizer/theme-option/footer.php:25
+msgid "Number of Sidebars In Footer Area"
+msgstr ""
+
+#: inc/customizer/theme-option/footer.php:29
+msgid "Disable footer sidebar area"
+msgstr ""
+
+#: inc/customizer/theme-option/footer.php:46
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/theme-option/layout-options.php:18
+msgid "Layout Options"
+msgstr ""
+
+#: inc/customizer/theme-option/layout-options.php:29
+msgid "Enable Selected Front Page"
+msgstr ""
+
+#: inc/customizer/theme-option/layout-options.php:30
+msgid ""
+"If you disable this the selected page will be disappera form the home page "
+"and other section from customizer will reamin as it is"
+msgstr ""
+
+#: inc/customizer/theme-option/layout-options.php:43
+msgid "Default Layout"
+msgstr ""
+
+#: inc/customizer/theme-option/layout-options.php:44
+#: inc/customizer/theme-option/layout-options.php:65
+msgid ""
+"Please note that this section can be overridden for individual page/posts"
+msgstr ""
+
+#: inc/customizer/theme-option/layout-options.php:48
+msgid "Content - Primary Sidebar"
+msgstr ""
+
+#: inc/customizer/theme-option/layout-options.php:49
+msgid "Primary Sidebar - Content"
+msgstr ""
+
+#: inc/customizer/theme-option/layout-options.php:50
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer/theme-option/layout-options.php:64
+msgid "Alignment Of Image In Single Post/Page"
+msgstr ""
+
+#: inc/customizer/theme-option/layout-options.php:69
+#: inc/post-meta/layout-meta.php:52
+msgid "Full"
+msgstr ""
+
+#: inc/customizer/theme-option/layout-options.php:70
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/theme-option/layout-options.php:71
+#: inc/post-meta/layout-meta.php:60
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/theme-option/layout-options.php:72
+msgid "No image"
+msgstr ""
+
+#: inc/customizer/theme-option/layout-options.php:75
+msgid "Please note that this setting can be override from individual post/page"
+msgstr ""
+
+#: inc/customizer/theme-option/layout-options.php:85
+msgid "Excerpt Length (in words)"
+msgstr ""
+
+#: inc/customizer/theme-option/layout-options.php:98
+msgid "Archive Layout"
+msgstr ""
+
+#: inc/customizer/theme-option/layout-options.php:102
+msgid "Excerpt Only"
+msgstr ""
+
+#: inc/customizer/theme-option/layout-options.php:103
+msgid "Thumbnail and Excerpt"
+msgstr ""
+
+#: inc/customizer/theme-option/layout-options.php:104
+msgid "Full Post"
+msgstr ""
+
+#: inc/customizer/theme-option/layout-options.php:105
+msgid "Thumbnail and Full Post"
+msgstr ""
+
+#: inc/customizer/theme-option/option-panel.php:6
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/theme-option/search.php:13
+msgid "Search Options"
+msgstr ""
+
+#: inc/customizer/theme-option/search.php:23
+msgid "Enable Search"
+msgstr ""
+
+#: inc/frameworks/evision-customizer/inc/custom-control/evision-category-control.php:34
+#: inc/frameworks/evision-customizer/inc/custom-control/evision-post-dropdown-control.php:48
+#: inc/frameworks/evision-customizer/inc/custom-control/evision-tags-dropdown-control.php:46
+#: inc/frameworks/evision-customizer/inc/custom-control/evision-user-dropdown-control.php:43
+msgid "Select"
+msgstr ""
+
+#: inc/hooks/footer.php:112
+#, php-format
+msgid "Theme: %1$s by %2$s"
+msgstr ""
+
+#: inc/hooks/header.php:174
+msgid "Skip to content"
+msgstr ""
+
+#: inc/hooks/homepage-testimonial.php:17
+msgid "jane doe"
+msgstr ""
+
+#: inc/hooks/homepage-testimonial.php:18
+msgid ""
+"The set doesn't moved. Deep don't fru it fowl gathering heaven days moving "
+"creeping under from i air. Set it fifth Meat was darkness. every bring in it."
+msgstr ""
+
+#: inc/post-meta/layout-meta.php:24
+msgid "Layout options"
+msgstr ""
+
+#: inc/post-meta/layout-meta.php:56
+msgid "Right "
+msgstr ""
+
+#: inc/post-meta/layout-meta.php:64
+msgid "No Image"
+msgstr ""
+
+#: inc/post-meta/layout-meta.php:84
+msgid "Choose Sidebar Template"
+msgstr ""
+
+#: inc/post-meta/layout-meta.php:109
+msgid "You can set up the sidebar content"
+msgstr ""
+
+#: inc/post-meta/layout-meta.php:109
+msgid "here"
+msgstr ""
+
+#: inc/post-meta/layout-meta.php:113
+msgid "Featured Image Alignment"
+msgstr ""
+
+#: inc/sidebar-widget-init.php:9
+msgid "Sidebar"
+msgstr ""
+
+#: inc/sidebar-widget-init.php:19
+msgid "Home/Front Page Full-Width Widget"
+msgstr ""
+
+#: inc/sidebar-widget-init.php:33
+msgid "Footer Column One"
+msgstr ""
+
+#: inc/sidebar-widget-init.php:35 inc/sidebar-widget-init.php:45
+#: inc/sidebar-widget-init.php:56 inc/sidebar-widget-init.php:67
+msgid "Displays items on footer section."
+msgstr ""
+
+#: inc/sidebar-widget-init.php:43
+msgid "Footer Column Two"
+msgstr ""
+
+#: inc/sidebar-widget-init.php:54
+msgid "Footer Column Three"
+msgstr ""
+
+#: inc/sidebar-widget-init.php:65
+msgid "Footer Column Four"
+msgstr ""
+
+#: inc/template-tags.php:30
+#, php-format
+msgctxt "post date"
+msgid "On %s"
+msgstr ""
+
+#: inc/template-tags.php:35
+#, php-format
+msgctxt "post author"
+msgid "By %s"
+msgstr ""
+
+#: inc/template-tags.php:52
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:54
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:60
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:66
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:66
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:66
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:72 template-parts/content-page.php:51
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:22
+msgid "NEXT POST"
+msgstr ""
+
+#: single.php:23
+msgid "Next post:"
+msgstr ""
+
+#: single.php:25
+msgid "PREVIOUS POST"
+msgstr ""
+
+#: single.php:26
+msgid "Previous post:"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:39 template-parts/content-single.php:41
+#: template-parts/content.php:83
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:40 template-parts/content.php:60
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Clean Biz"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://evisionthemes.com/product/clean-biz/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Clean Biz, a dynamic, fast responsive business WordPress theme. Whether you "
+"require an eCommerce, Business, Woo-commerce, multilingual shop, responsive "
+"layout, retina ready. If you want to build your website within a few "
+"moments, choose this multipurpose corporate theme. It suits your business. "
+"It supports most of the popular themes from WordPress repository. "
+"Compatiable with modern browser like IE 9+, Opera, Firefox, Chrome, Safari "
+"including fit in all devices like iPhone, iPad, Android, Tablet, Mac, "
+"Desktop etc. This theme is translation ready. Check out Theme Instructions "
+"at http://doc.evisionthemes.com/clean-biz and Demo at demo.evisionthemes.com/"
+"clean-biz"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "eVision Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://evisionthemes.com/"
+msgstr ""

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center|top"
+    tools:context="com.example.asus.bubt.AdminActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BUBT NEWS PORTAL"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:gravity="center"/>
+    <EditText
+        android:id="@+id/edtNews"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:hint="News"/>
+
+    <Button
+        android:id="@+id/btnNews"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="Submit"/>
+
+    <Button
+        android:id="@+id/btnLogout"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="Logout"/>
+
+</LinearLayout>
